@@ -8,6 +8,9 @@
   "moduleType": [
     "yui"
   ],
+  "main": [
+    "lib/*"
+  ],
   "keywords": [
     "kissy",
     "jquery"
