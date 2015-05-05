@@ -1,0 +1,23 @@
+{
+  "name": "kissy",
+  "version": "1.2.0",
+  "authors": [
+    "Nina-wj <1284663246@qq.com>"
+  ],
+  "description": "This is kissy-1.2 and jquery-1.7",
+  "moduleType": [
+    "yui"
+  ],
+  "keywords": [
+    "kissy",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
