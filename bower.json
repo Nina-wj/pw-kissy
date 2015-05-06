@@ -15,6 +15,7 @@
     "kissy",
     "jquery"
   ],
+  "_release": "1.4.0",
   "license": "MIT",
   "ignore": [
     "**/.*",
